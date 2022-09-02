@@ -4,6 +4,9 @@
 *::after {
     box-sizing: border-box;
 }
+* {
+    box-sizing: border-box;
+}
 body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -122,5 +125,16 @@ line-height: 1em;
 }
 .fas {
     color: white;
-    
+}
+#footer p {
+    line-height: 2em;
+}
+#footer address {
+    line-height: 2em;
+}
+hr {
+    width: 50%;
+    border: 1px solid white;
+    margin-bottom: 2em;
+    margin-top: 2em;
 }
