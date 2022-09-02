@@ -8,6 +8,13 @@ body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
+h2 {
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+}
 h3 {
     color:#25a2c3 ;
     font-weight: bold;
@@ -60,17 +67,47 @@ h3 {
 }
 
 /* main */
- {
-    margin: 50px;
-    line-height: 1.5em;
-} 
 #circle {
     width: 400px;
     border-radius: 50%;
     overflow: hidden;
     margin: 1em 1em 1em 1em;
-    
-   
-    
 }
+{
+    margin: 50px;
+    line-height: 1.5em;}
+    #main-1 {
+        margin-inline: 47px;
+        line-height: 1em;
+        margin-bottom: 2em;
+    }
+    #orange {
+        background-color: #ff4400;
+        color: white;
+        height: 400px;
+        margin-bottom: 4em;
+        margin-top: 4em;
+    }
+    
+    #quote  {
+        margin-inline: 3px;
+    font-style: italic;
+    margin-bottom: 2em;
+}
+.main-2{
+    margin-bottom: 4em;
+    border: 1px solid lightgrey;
+    padding-bottom: 4em;
+}
+.main-2 img {
+    height: 245px;
+}
+.main-2 p {
+    margin-inline: 34px;
+}
+
+
+    
+    
+
 /*  foot*/
