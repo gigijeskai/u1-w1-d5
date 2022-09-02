@@ -7,6 +7,7 @@
 body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    line-height: 2em;
 }
 h2 {
     color: white;
@@ -34,7 +35,7 @@ h3 {
 }
 #banner {
     height: 400px;
-    line-height: 1.65;
+    line-height: 2em;
     background-image: url(../images/banner.jpg);
     background-position: center;
     background-size: cover;
@@ -74,13 +75,13 @@ h3 {
     overflow: hidden;
     margin: 1em 1em 1em -24px;
 }
-{
-    margin: 50px;
-    line-height: 1.5em;}
+
+    
     #main-1 {
         margin-inline: 47px;
-        line-height: 1em;
+        line-height: 2em;
         margin-bottom: 2em;
+
     }
     #orange {
         background-color: #ff4400;
