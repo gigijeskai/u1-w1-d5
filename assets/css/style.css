@@ -34,7 +34,7 @@ h3 {
     padding-bottom: 2em;
 }
 #banner {
-    height: 400px;
+    height: 440px;
     line-height: 2em;
     background-image: url(../images/banner.jpg);
     background-position: center;
@@ -86,9 +86,13 @@ h3 {
     #orange {
         background-color: #ff4400;
         color: white;
-        height: 400px;
+        height: 320px;
         margin-bottom: 4em;
         margin-top: 4em;
+    }
+   
+    #mario span{
+        font-size: 24px;
     }
     
     #quote  {
