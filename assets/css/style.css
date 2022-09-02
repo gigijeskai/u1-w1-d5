@@ -35,11 +35,11 @@ h3 {
 #banner {
     height: 400px;
     line-height: 1.65;
-    background-color: cover;
     background-image: url(../images/banner.jpg);
-    
-
+    background-position: center;
+    background-size: cover;
 }
+
 #banner h1 {
     font-size: 46px;
     padding-top: 1.5em;
@@ -72,7 +72,7 @@ h3 {
     width: 400px;
     border-radius: 50%;
     overflow: hidden;
-    margin: 1em 1em 1em 1em;
+    margin: 1em 1em 1em -24px;
 }
 {
     margin: 50px;
