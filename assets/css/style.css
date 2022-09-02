@@ -1,0 +1,63 @@
+/* general */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    color:#25a2c3 ;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+/* head */
+#logo {
+    background-color: black;
+}
+
+#logo img{
+    width: 35%;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+#banner {
+    height: 400px;
+    line-height: 1.65;
+    background-color: cover;
+    background-image: url(../images/banner.jpg);
+    
+
+}
+#banner h1 {
+    font-size: 46px;
+    padding-top: 1.5em;
+    margin-inline: 2em;
+    line-height: 46px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #25a2c3;
+    
+}
+#banner p {
+    margin-top: 2em;
+ 
+  ;
+}
+#like-a-button {
+    width: 135px;
+    height: 35px;
+    display: inline-block;
+    background-color:#ff4400;
+    color: white;
+    border-radius: 3px;
+    
+    margin-top: 2em;
+    font-weight: bold;
+}
+
+/* main */
+/*  foot*/
